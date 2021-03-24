@@ -1,3 +1,5 @@
+package Rekursionen;
+
 public class RekursionenDiverse {
 
     //METHODEN
